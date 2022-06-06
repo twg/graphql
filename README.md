@@ -1,7 +1,7 @@
 # graphql
 This is a basic graphql playbook using node, express and express-graphql.
 
-# Setup
+## Setup
 To clone the repository run the below command in your terminal:\ 
 `git clone https://github.com/twg/graphql.git`\
 Now run the below command to download all the required dependancy:\
